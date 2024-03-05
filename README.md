@@ -5,5 +5,5 @@
 # pkg install python 
 # pkg install git 
 # git clone https://github.com/mahmuodmagdad/SQL-detection-
-# cd SQL-detection- 
-# python SQL-detection-.py
+# cd SQL detection 
+# python SQL detection.py
